@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/modules/helloworld.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/ignitarium/Linux_Training/modules/helloworld.ko /home/ignitarium/Linux_Training/modules/helloworld.o /home/ignitarium/Linux_Training/modules/helloworld.mod.o;  true

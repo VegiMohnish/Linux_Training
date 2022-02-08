@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/modules/static_alloc.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/ignitarium/Linux_Training/modules/static_alloc.ko /home/ignitarium/Linux_Training/modules/static_alloc.o /home/ignitarium/Linux_Training/modules/static_alloc.mod.o;  true
