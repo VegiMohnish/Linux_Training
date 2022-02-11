@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/file_operations/modules.order := {   echo /home/ignitarium/Linux_Training/file_operations/file_operations.ko; :; } | awk '!x[$$0]++' - > /home/ignitarium/Linux_Training/file_operations/modules.order

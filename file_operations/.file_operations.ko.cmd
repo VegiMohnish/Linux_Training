@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/file_operations/file_operations.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/ignitarium/Linux_Training/file_operations/file_operations.ko /home/ignitarium/Linux_Training/file_operations/file_operations.o /home/ignitarium/Linux_Training/file_operations/file_operations.mod.o;  true

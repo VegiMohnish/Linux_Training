@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/file_operations/file_operations.mod := { echo  /home/ignitarium/Linux_Training/file_operations/file_operations.o;  echo; } > /home/ignitarium/Linux_Training/file_operations/file_operations.mod
