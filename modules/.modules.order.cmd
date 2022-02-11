@@ -1,1 +1,0 @@
-cmd_/home/ignitarium/Linux_Training/modules/modules.order := {   echo /home/ignitarium/Linux_Training/modules/static_alloc.ko;   echo /home/ignitarium/Linux_Training/modules/dynamic_alloc.ko; :; } | awk '!x[$$0]++' - > /home/ignitarium/Linux_Training/modules/modules.order
