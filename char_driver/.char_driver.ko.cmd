@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/char_driver/char_driver.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/ignitarium/Linux_Training/char_driver/char_driver.ko /home/ignitarium/Linux_Training/char_driver/char_driver.o /home/ignitarium/Linux_Training/char_driver/char_driver.mod.o;  true

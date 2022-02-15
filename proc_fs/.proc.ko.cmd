@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/debugging/proc.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/ignitarium/Linux_Training/debugging/proc.ko /home/ignitarium/Linux_Training/debugging/proc.o /home/ignitarium/Linux_Training/debugging/proc.mod.o;  true

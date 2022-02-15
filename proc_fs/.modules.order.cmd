@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/debugging/modules.order := {   echo /home/ignitarium/Linux_Training/debugging/proc.ko; :; } | awk '!x[$$0]++' - > /home/ignitarium/Linux_Training/debugging/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/char_driver/char_driver.mod := { echo  /home/ignitarium/Linux_Training/char_driver/char_driver.o;  echo; } > /home/ignitarium/Linux_Training/char_driver/char_driver.mod
