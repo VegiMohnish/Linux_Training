@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/spinlock/spinlock.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/ignitarium/Linux_Training/spinlock/spinlock.ko /home/ignitarium/Linux_Training/spinlock/spinlock.o /home/ignitarium/Linux_Training/spinlock/spinlock.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/kthread/modules.order := {   echo /home/ignitarium/Linux_Training/kthread/kernel_thread.ko; :; } | awk '!x[$$0]++' - > /home/ignitarium/Linux_Training/kthread/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/kthread/Module.symvers := sed 's/\.ko$$/\.o/' /home/ignitarium/Linux_Training/kthread/modules.order | scripts/mod/modpost -m -a  -o /home/ignitarium/Linux_Training/kthread/Module.symvers -e -i Module.symvers   -T -

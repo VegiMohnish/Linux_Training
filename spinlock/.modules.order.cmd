@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/spinlock/modules.order := {   echo /home/ignitarium/Linux_Training/spinlock/spinlock.ko; :; } | awk '!x[$$0]++' - > /home/ignitarium/Linux_Training/spinlock/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/mutex/mutex.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/ignitarium/Linux_Training/mutex/mutex.ko /home/ignitarium/Linux_Training/mutex/mutex.o /home/ignitarium/Linux_Training/mutex/mutex.mod.o;  true
