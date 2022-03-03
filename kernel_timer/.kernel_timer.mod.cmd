@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/kernel_timer/kernel_timer.mod := { echo  /home/ignitarium/Linux_Training/kernel_timer/kernel_timer.o;  echo; } > /home/ignitarium/Linux_Training/kernel_timer/kernel_timer.mod

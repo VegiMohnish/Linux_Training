@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/kernel_timer/modules.order := {   echo /home/ignitarium/Linux_Training/kernel_timer/kernel_timer.ko; :; } | awk '!x[$$0]++' - > /home/ignitarium/Linux_Training/kernel_timer/modules.order

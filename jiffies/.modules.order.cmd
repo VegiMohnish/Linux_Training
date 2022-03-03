@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/jiffies/modules.order := {   echo /home/ignitarium/Linux_Training/jiffies/jiffies.ko; :; } | awk '!x[$$0]++' - > /home/ignitarium/Linux_Training/jiffies/modules.order

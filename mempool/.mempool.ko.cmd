@@ -1,0 +1,1 @@
+cmd_/home/ignitarium/Linux_Training/mempool/mempool.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/ignitarium/Linux_Training/mempool/mempool.ko /home/ignitarium/Linux_Training/mempool/mempool.o /home/ignitarium/Linux_Training/mempool/mempool.mod.o;  true
